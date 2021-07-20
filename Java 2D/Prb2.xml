@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_291" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="folder3.PropsFig">
+    <void property="pathSegments">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>1010.0</double>
+          </void>
+          <void index="1">
+           <double>166.0</double>
+          </void>
+         </array>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>945.3826842697972</double>
+          </void>
+          <void index="1">
+           <double>166.0</double>
+          </void>
+          <void index="2">
+           <double>893.0</double>
+          </void>
+          <void index="3">
+           <double>213.23395889285132</double>
+          </void>
+          <void index="4">
+           <double>893.0</double>
+          </void>
+          <void index="5">
+           <double>271.5</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>3</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>893.0</double>
+          </void>
+          <void index="1">
+           <double>329.7660411071487</double>
+          </void>
+          <void index="2">
+           <double>945.3826842697972</double>
+          </void>
+          <void index="3">
+           <double>377.0</double>
+          </void>
+          <void index="4">
+           <double>1010.0</double>
+          </void>
+          <void index="5">
+           <double>377.0</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>3</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>1074.6173157302028</double>
+          </void>
+          <void index="1">
+           <double>377.0</double>
+          </void>
+          <void index="2">
+           <double>1127.0</double>
+          </void>
+          <void index="3">
+           <double>329.7660411071487</double>
+          </void>
+          <void index="4">
+           <double>1127.0</double>
+          </void>
+          <void index="5">
+           <double>271.5</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>3</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>1127.0</double>
+          </void>
+          <void index="1">
+           <double>213.23395889285132</double>
+          </void>
+          <void index="2">
+           <double>1074.6173157302028</double>
+          </void>
+          <void index="3">
+           <double>166.0</double>
+          </void>
+          <void index="4">
+           <double>1010.0</double>
+          </void>
+          <void index="5">
+           <double>166.0</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>3</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6"/>
+        </void>
+        <void property="pathSegmentType">
+         <int>4</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>498.3898966916131</double>
+          </void>
+          <void index="1">
+           <double>101.47465039822401</double>
+          </void>
+         </array>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>196.62033410421176</double>
+          </void>
+          <void index="1">
+           <double>400.2591039723094</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>1</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>414.74591273943935</double>
+          </void>
+          <void index="1">
+           <double>485.3776760485247</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>1</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>642.9085176908615</double>
+          </void>
+          <void index="1">
+           <double>259.4720589878043</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>1</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>642.9085177492523</double>
+          </void>
+          <void index="1">
+           <double>259.4720589878043</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>1</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>665.6322772855859</double>
+          </void>
+          <void index="1">
+           <double>273.83117927835417</double>
+          </void>
+          <void index="2">
+           <double>700.146304915696</double>
+          </void>
+          <void index="3">
+           <double>288.001175210325</double>
+          </void>
+          <void index="4">
+           <double>748.0</double>
+          </void>
+          <void index="5">
+           <double>299.5</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>3</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>914.6575008412392</double>
+          </void>
+          <void index="1">
+           <double>259.4536587784401</double>
+          </void>
+          <void index="2">
+           <double>919.5204931881292</double>
+          </void>
+          <void index="3">
+           <double>187.00914694610026</double>
+          </void>
+          <void index="4">
+           <double>828.036246684222</double>
+          </void>
+          <void index="5">
+           <double>187.00914694610026</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>3</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>806.4397456389524</double>
+          </void>
+          <void index="1">
+           <double>187.00914694610026</double>
+          </void>
+          <void index="2">
+           <double>779.4739969956731</double>
+          </void>
+          <void index="3">
+           <double>191.04634122155989</double>
+          </void>
+          <void index="4">
+           <double>748.0</double>
+          </void>
+          <void index="5">
+           <double>200.5</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>3</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>735.0737678612694</double>
+          </void>
+          <void index="1">
+           <double>196.61742391831373</double>
+          </void>
+          <void index="2">
+           <double>722.9079459275753</double>
+          </void>
+          <void index="3">
+           <double>193.64844765663247</double>
+          </void>
+          <void index="4">
+           <double>711.5621776722966</double>
+          </void>
+          <void index="5">
+           <double>191.49752587328925</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>3</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>711.5621737953743</double>
+          </void>
+          <void index="1">
+           <double>191.49752587328925</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>1</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>716.5154753268407</double>
+          </void>
+          <void index="1">
+           <double>186.59322247443924</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>1</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>498.3898966916131</double>
+          </void>
+          <void index="1">
+           <double>101.47465039822401</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>1</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6"/>
+        </void>
+        <void property="pathSegmentType">
+         <int>4</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="folder3.PropsFig">
+    <void property="pathSegments">
+     <object class="java.util.ArrayList">
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>230.4600067138672</double>
+          </void>
+          <void index="1">
+           <double>158.61199951171875</double>
+          </void>
+         </array>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>253.33453369140625</double>
+          </void>
+          <void index="1">
+           <double>158.61199951171875</double>
+          </void>
+          <void index="2">
+           <double>271.87799072265625</double>
+          </void>
+          <void index="3">
+           <double>186.10215759277344</double>
+          </void>
+          <void index="4">
+           <double>271.87799072265625</double>
+          </void>
+          <void index="5">
+           <double>220.01300048828125</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>3</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>271.87799072265625</double>
+          </void>
+          <void index="1">
+           <double>253.92384338378906</double>
+          </void>
+          <void index="2">
+           <double>253.33453369140625</double>
+          </void>
+          <void index="3">
+           <double>281.41400146484375</double>
+          </void>
+          <void index="4">
+           <double>230.4600067138672</double>
+          </void>
+          <void index="5">
+           <double>281.41400146484375</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>3</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>207.58546447753906</double>
+          </void>
+          <void index="1">
+           <double>281.41400146484375</double>
+          </void>
+          <void index="2">
+           <double>189.04200744628906</double>
+          </void>
+          <void index="3">
+           <double>253.92384338378906</double>
+          </void>
+          <void index="4">
+           <double>189.04200744628906</double>
+          </void>
+          <void index="5">
+           <double>220.01300048828125</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>3</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>189.04200744628906</double>
+          </void>
+          <void index="1">
+           <double>186.10215759277344</double>
+          </void>
+          <void index="2">
+           <double>207.58546447753906</double>
+          </void>
+          <void index="3">
+           <double>158.61199951171875</double>
+          </void>
+          <void index="4">
+           <double>230.4600067138672</double>
+          </void>
+          <void index="5">
+           <double>158.61199951171875</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>3</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6"/>
+        </void>
+        <void property="pathSegmentType">
+         <int>4</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>411.5699768066406</double>
+          </void>
+          <void index="1">
+           <double>121.05824279785156</double>
+          </void>
+         </array>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>518.3964233398438</double>
+          </void>
+          <void index="1">
+           <double>294.9508056640625</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>1</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>441.179931640625</double>
+          </void>
+          <void index="1">
+           <double>344.48980712890625</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>1</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>360.4103698730469</double>
+          </void>
+          <void index="1">
+           <double>213.0127410888672</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>1</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>360.4103698730469</double>
+          </void>
+          <void index="1">
+           <double>213.0127410888672</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>1</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>352.3661804199219</double>
+          </void>
+          <void index="1">
+           <double>221.3697509765625</double>
+          </void>
+          <void index="2">
+           <double>340.148193359375</double>
+          </void>
+          <void index="3">
+           <double>229.61668395996094</double>
+          </void>
+          <void index="4">
+           <double>323.2080078125</double>
+          </void>
+          <void index="5">
+           <double>236.3090057373047</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>3</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>264.21124267578125</double>
+          </void>
+          <void index="1">
+           <double>213.0020294189453</double>
+          </void>
+          <void index="2">
+           <double>262.48974609375</double>
+          </void>
+          <void index="3">
+           <double>170.83932495117188</double>
+          </void>
+          <void index="4">
+           <double>294.87518310546875</double>
+          </void>
+          <void index="5">
+           <double>170.83932495117188</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>3</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>302.52032470703125</double>
+          </void>
+          <void index="1">
+           <double>170.83932495117188</double>
+          </void>
+          <void index="2">
+           <double>312.0661926269531</double>
+          </void>
+          <void index="3">
+           <double>173.18896484375</double>
+          </void>
+          <void index="4">
+           <double>323.2080078125</double>
+          </void>
+          <void index="5">
+           <double>178.6909942626953</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>3</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>327.78387451171875</double>
+          </void>
+          <void index="1">
+           <double>176.43133544921875</double>
+          </void>
+          <void index="2">
+           <double>332.090576171875</double>
+          </void>
+          <void index="3">
+           <double>174.70339965820312</double>
+          </void>
+          <void index="4">
+           <double>336.10699462890625</double>
+          </void>
+          <void index="5">
+           <double>173.45155334472656</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>3</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>336.10699462890625</double>
+          </void>
+          <void index="1">
+           <double>173.45155334472656</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>1</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>334.353515625</double>
+          </void>
+          <void index="1">
+           <double>170.59725952148438</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>1</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6">
+          <void index="0">
+           <double>411.5699768066406</double>
+          </void>
+          <void index="1">
+           <double>121.05824279785156</double>
+          </void>
+         </array>
+        </void>
+        <void property="pathSegmentType">
+         <int>1</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+      <void method="add">
+       <object class="folder3.PathSegment">
+        <void property="coords">
+         <array class="double" length="6"/>
+        </void>
+        <void property="pathSegmentType">
+         <int>4</int>
+        </void>
+        <void property="windingRule">
+         <int>1</int>
+        </void>
+       </object>
+      </void>
+     </object>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
